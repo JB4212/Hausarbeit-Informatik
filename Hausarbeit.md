@@ -6,6 +6,8 @@
 
 ## Die Entwicklung der Röhrencomputer
 
+## Die Entwicklung der Intergierten Schaltkreise
+
 ## Die Entwicklung der Transistoren
 
 ## Zusammenfassung
