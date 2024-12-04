@@ -8,6 +8,8 @@
 
 ## Die Entwicklung der Intergierten Schaltkreise
 
+## Die Zeit der Mobielen Endtgeräte
+
 ## Die Entwicklung der Transistoren
 
 ## Zusammenfassung
